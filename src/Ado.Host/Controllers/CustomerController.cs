@@ -20,7 +20,6 @@ namespace Ado.Host.Controllers
     {
         #region properties
 
-        private readonly string connectionString = string.Empty;
         private readonly ICustomerRepository customerRepository;
 
         #endregion
