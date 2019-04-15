@@ -7,5 +7,6 @@
 To run solution for demo, First run scripts at location DataAccess -> DatabaseScripts
 
 Solution is implemented with help of following:
-###ADO.NET CRUD: https://www.tutlane.com/tutorial/aspnet-mvc/ado-net-crud-operations-insert-update-delete-in-asp-net-mvc-4-example
-###Unity IoC: https://code.msdn.microsoft.com/Dependency-Injection-in-11d54863
+
+ADO.NET CRUD: https://www.tutlane.com/tutorial/aspnet-mvc/ado-net-crud-operations-insert-update-delete-in-asp-net-mvc-4-example
+Unity IoC: https://code.msdn.microsoft.com/Dependency-Injection-in-11d54863
